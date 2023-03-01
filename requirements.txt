@@ -1,2 +1,5 @@
 pygame
 random
+sys
+os
+pygame_widgets
